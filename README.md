@@ -133,11 +133,20 @@ amazon-q-workshop-2026/
 
 ## 👨‍🏫 About the Facilitator
 
-**Varun Manik** is a seasoned Cloud Solutions Architect and AI Development Expert with extensive experience in:
-- AWS Cloud Architecture & Implementation
-- AI/ML Development and Integration
-- DevOps and Infrastructure Automation
-- Faculty Training and Development Programs
+**Varun Manik** - AWS Ambassador | Amdocs | Organizer – AWS User Group Mississauga | X Manager Deloitte
+
+### Professional Expertise:
+- **AWS 8X Certified** Cloud Solutions Architect
+- **DevOps & DevSecOps** Implementation Expert  
+- **AI/ML Development** and Integration Specialist
+- **Cloud Trainer** with extensive teaching experience
+- **AWS Ambassador** and Community Leader
+
+### Leadership & Community:
+- **AWS User Group Mississauga** - Organizer
+- **Former Manager** at Deloitte
+- **Current Role** at Amdocs
+- **Active Contributor** to cloud and AI communities
 
 ## 🤝 Workshop Support
 
@@ -169,13 +178,22 @@ amazon-q-workshop-2026/
 ## 📞 Contact & Support
 
 **Workshop Facilitator:** Varun Manik  
-**Email:** [Contact through GitHub Issues]  
-**LinkedIn:** [Professional Network]  
 
+### Connect with Varun:
+- 📧 **Email:** varunmanik1@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vkmanik/
+- 🐙 **GitHub:** https://github.com/manikcloud
+- 📝 **Medium:** https://varunmanik1.medium.com/
+- 📺 **YouTube:** https://bit.ly/32fknRN
+- 🐦 **Twitter:** https://twitter.com/varunkmanik
+- 📘 **Facebook:** https://www.facebook.com/cloudvirtualization/
+
+### Workshop Support:
 For technical issues or questions:
-1. Create an issue in this repository
-2. Join our workshop discussion forum
-3. Reach out during live sessions
+1. **Email directly:** varunmanik1@gmail.com
+2. **Create an issue** in this repository
+3. **Connect on LinkedIn** for professional networking
+4. **Join live Q&A** sessions during the workshop
 
 ---
 
