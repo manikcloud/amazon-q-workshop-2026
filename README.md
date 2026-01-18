@@ -31,20 +31,20 @@ By the end of this workshop, participants will be able to:
 
 ## 📚 Workshop Modules
 
-### **Day 1: Foundation & Setup**
-- **Module 1:** Introduction to Amazon Q & AI-Powered Development
-- **Module 2:** Installation, Configuration & Authentication
-- **Module 3:** Basic Code Generation and Assistance
+### **📅 Day 1: Foundation & Setup**
+- **📖 [Module 1: Introduction to Amazon Q & AI-Powered Development](./modules/module-01/)**
+- **📖 [Module 2: Installation, Configuration & Authentication](./modules/module-02/)**
+- **📖 [Module 3: Basic Code Generation and Assistance](./modules/module-03/)**
 
-### **Day 2: Advanced Features**
-- **Module 4:** AWS Service Integration & Cloud Automation
-- **Module 5:** Infrastructure as Code with Amazon Q
-- **Module 6:** Security Best Practices & Code Analysis
+### **📅 Day 2: Advanced Features**
+- **📖 [Module 4: AWS Service Integration & Cloud Automation](./modules/module-04/)**
+- **📖 [Module 5: Infrastructure as Code with Amazon Q](./modules/module-05/)**
+- **📖 [Module 6: Security Best Practices & Code Analysis](./modules/module-06/)**
 
-### **Day 3: Practical Implementation**
-- **Module 7:** Real-World Project Development
-- **Module 8:** Teaching Methodologies with AI Tools
-- **Module 9:** Assessment & Future Roadmap
+### **📅 Day 3: Practical Implementation**
+- **📖 [Module 7: Real-World Project Development](./modules/module-07/)**
+- **📖 [Module 8: Teaching Methodologies with AI Tools](./modules/module-08/)**
+- **📖 [Module 9: Assessment & Future Roadmap](./modules/module-09/)**
 
 ## 🛠️ Prerequisites
 
@@ -90,33 +90,35 @@ Follow the module-wise exercises in the `/modules` directory.
 ## 📁 Repository Structure
 ```
 amazon-q-workshop-2026/
-├── README.md                 # This file
-├── modules/                  # Workshop modules
-│   ├── module-01/           # Introduction & Setup
-│   ├── module-02/           # Basic Usage
-│   └── ...
-├── exercises/               # Hands-on exercises
-├── resources/              # Additional resources
-├── slides/                 # Presentation materials
-└── examples/               # Code examples
+├── README.md                           # Workshop overview & main guide
+├── 📚 modules/                         # Workshop modules (Day-wise)
+│   ├── 📖 [module-01/](./modules/module-01/)  # Introduction & Amazon Q Overview
+│   ├── 📖 [module-02/](./modules/module-02/)  # Installation & Configuration
+│   ├── 📖 [module-03/](./modules/module-03/)  # Basic Code Generation
+│   ├── 📖 [module-04/](./modules/module-04/)  # AWS Service Integration
+│   ├── 📖 [module-05/](./modules/module-05/)  # Infrastructure as Code
+│   ├── 📖 [module-06/](./modules/module-06/)  # Security & Best Practices
+│   ├── 📖 [module-07/](./modules/module-07/)  # Real-World Projects
+│   ├── 📖 [module-08/](./modules/module-08/)  # Teaching Methodologies
+│   └── 📖 [module-09/](./modules/module-09/)  # Assessment & Future Roadmap
+├── 🛠️ [exercises/](./exercises/)              # Hands-on practice exercises
+├── 📚 [resources/](./resources/)              # Additional learning materials
+├── 📊 [slides/](./slides/)                    # Presentation materials
+├── 💻 [examples/](./examples/)                # Code examples & templates
+├── ✅ [solutions/](./solutions/)              # Exercise solutions
+└── 🎥 [videos/](./videos/)                    # Workshop recordings
 ```
 
 ## 🎯 Hands-On Exercises
 
-### Exercise 1: Code Generation
-- Generate a REST API using Amazon Q
-- Implement error handling and validation
-- Add comprehensive documentation
+**🛠️ [Complete Exercise Guide](./exercises/)**
 
-### Exercise 2: AWS Integration
-- Deploy infrastructure using Q-generated CloudFormation
-- Set up monitoring and logging
-- Implement security best practices
+### Exercise Categories:
+- **🟢 Beginner:** Code Generation, AWS CLI, Basic Debugging
+- **🟡 Intermediate:** Infrastructure as Code, API Development, Security Analysis  
+- **🔴 Advanced:** Full-Stack Applications, CI/CD Pipelines, Multi-Service Architecture
 
-### Exercise 3: Real-World Project
-- Build a complete web application
-- Integrate multiple AWS services
-- Implement CI/CD pipeline
+**📝 [View All Exercises](./exercises/) | 💡 [Exercise Solutions](./solutions/)**
 
 ## 📖 Resources & References
 
@@ -126,10 +128,11 @@ amazon-q-workshop-2026/
 - 📙 [AWS Best Practices](https://aws.amazon.com/architecture/well-architected/)
 
 ### Additional Learning:
-- 🎥 [Workshop Video Recordings](./videos/)
-- 📊 [Presentation Slides](./slides/)
-- 💻 [Code Examples](./examples/)
-- 📝 [Exercise Solutions](./solutions/)
+- 🎥 **[Workshop Video Recordings](./videos/)** - Complete session recordings
+- 📊 **[Presentation Slides](./slides/)** - All workshop presentations
+- 💻 **[Code Examples](./examples/)** - Ready-to-use code templates
+- 📝 **[Exercise Solutions](./solutions/)** - Complete exercise answers
+- 📚 **[Additional Resources](./resources/)** - Extended learning materials
 
 ## 👨‍🏫 About the Facilitator
 
