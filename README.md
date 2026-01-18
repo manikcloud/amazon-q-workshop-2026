@@ -53,23 +53,6 @@ By the end of this workshop, participants will be able to:
 - ✅ Implement best practices for AI-assisted development
 - ✅ Train students using modern AI development tools
 
-## 📚 Workshop Modules
-
-### **📅 Day 1: Foundation & Setup**
-- **📖 [Module 1: Introduction to Amazon Q & AI-Powered Development](./modules/module-01/)**
-- **📖 [Module 2: Installation, Configuration & Authentication](./modules/module-02/)**
-- **📖 [Module 3: Basic Code Generation and Assistance](./modules/module-03/)**
-
-### **📅 Day 2: Advanced Features**
-- **📖 [Module 4: AWS Service Integration & Cloud Automation](./modules/module-04/)**
-- **📖 [Module 5: Infrastructure as Code with Amazon Q](./modules/module-05/)**
-- **📖 [Module 6: Security Best Practices & Code Analysis](./modules/module-06/)**
-
-### **📅 Day 3: Practical Implementation**
-- **📖 [Module 7: Real-World Project Development](./modules/module-07/)**
-- **📖 [Module 8: Teaching Methodologies with AI Tools](./modules/module-08/)**
-- **📖 [Module 9: Assessment & Future Roadmap](./modules/module-09/)**
-
 ## 🛠️ Prerequisites
 
 ### Technical Requirements:
