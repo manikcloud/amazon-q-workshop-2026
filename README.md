@@ -4,7 +4,7 @@
 Welcome to the **Amazon Q Workshop 2026** - a comprehensive Faculty Development Program designed to empower educators and developers with AI-powered development assistance and cloud automation capabilities.
 
 **Session Facilitator:** **Varun Manik**  
-*Cloud Solutions Architect & AI Development Expert*
+*AWS Ambassador | Cloud Solutions Architect & AI Development Expert | Organizer – AWS User Group Mississauga | X Manager Deloitte | DevOps | DevSecOps | AWS 8X | Cloud Trainer | AI Expert*
 
 <img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
 
