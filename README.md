@@ -3,7 +3,17 @@
 ## Overview
 This repository contains materials and resources for the Amazon Q Workshop 2026, focusing on AI-powered development assistance and cloud automation.
 
-## What is Amazon Q?
+
+
+
+<img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
+
+
+[Daywise Schedule of for FDP.pdf](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)
+
+
+## What is Ama![Uploading Jan 2026 FDP Creative.png…]()
+zon Q?
 Amazon Q is an AI-powered assistant that helps developers:
 - Write, debug, and optimize code
 - Understand and work with AWS services
