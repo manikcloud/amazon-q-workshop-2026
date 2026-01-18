@@ -11,6 +11,9 @@ A beautiful web-based Python calculator with advanced mathematical functions, bu
 - **Keyboard Support** - Full keyboard navigation
 - **Responsive Design** - Works on all devices
 - **Lightweight Container** - Alpine Linux based Docker image
+- 
+- <img width="1397" height="980" alt="image" src="https://github.com/user-attachments/assets/a26f8e2e-604b-41fa-b6f8-4d420affca0e" />
+
 
 ## 🚀 How to Run Locally
 
