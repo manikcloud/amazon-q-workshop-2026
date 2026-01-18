@@ -1,28 +1,39 @@
 # Amazon Q Workshop 2026 - Faculty Development Program
 
 ## 🎯 Workshop Overview
-Welcome to the **Amazon Q Workshop 2026** - a focused **2-hour Faculty Development Program** designed to introduce educators to AI-powered development assistance.
+Welcome to the **Amazon Q Workshop 2026** - a focused **Faculty Development Program** designed to introduce educators to AI-powered development assistance and modern cloud technologies.
 
 **Session Facilitator:** **Varun Manik**  
 *AWS Ambassador | Cloud Solutions Architect & AI Development Expert | Organizer – AWS User Group Mississauga | X Manager Deloitte | DevOps | DevSecOps | AWS 8X | Cloud Trainer | AI Expert*
 
+### 🎨 Workshop Branding
 <img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
 
-![WhatsApp Image 2026-01-18 at 12 31 48 PM (1)](https://github.com/user-attachments/assets/c27c1350-67da-449f-b5f0-56a7fb760835)
+### 📋 Workshop Details & Schedule
+![Workshop Schedule & Details](https://github.com/user-attachments/assets/c27c1350-67da-449f-b5f0-56a7fb760835)
 
+### 🏛️ Institution & Program Information  
+![Institution Details](https://github.com/user-attachments/assets/ac018a5b-f027-4249-9e9c-987d712395e5)
 
-![WhatsApp Image 2026-01-18 at 12 31 48 PM](https://github.com/user-attachments/assets/ac018a5b-f027-4249-9e9c-987d712395e5)
+## 📅 Workshop Program Structure
+📋 **[Complete Faculty Development Program Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
 
-## 📅 Workshop Schedule
-📋 **[Complete Daywise Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
+### 🎓 Session Breakdown
 
-| Session | Topic | Description |
-|---------|-------|-------------|
-| **[01 - Introduction](./01-introduction/)** | Amazon Q Overview | Understanding AI-powered development |
-| **[02 - Setup & Installation](./02-setup-installation/)** | Environment Setup | CLI Installation & Configuration |
-| **[03 - Hands-On Demo](./03-hands-on-demo/)** | Live Demonstration | Interactive coding with Amazon Q |
-| **[04 - Practical Exercise](./04-practical-exercise/)** | Individual Practice | Build your first Q-assisted project |
-| **[05 - Resources & Next Steps](./05-resources/)** | Wrap-up | Additional resources and learning paths |
+| Session | Topic | Focus Area |
+|---------|-------|------------|
+| **[01 - Introduction](./01-introduction/)** | Amazon Q Overview | Understanding AI-powered development tools |
+| **[02 - Setup & Installation](./02-setup-installation/)** | Environment Configuration | CLI Installation & AWS Authentication |
+| **[03 - Hands-On Demo](./03-hands-on-demo/)** | Live Coding Session | Interactive development with Amazon Q |
+| **[04 - Practical Exercise](./04-practical-exercise/)** | Individual Practice | Build real-world projects with AI assistance |
+| **[05 - Resources & Next Steps](./05-resources/)** | Wrap-up & Resources | Continued learning and certification paths |
+
+### 🎯 Program Objectives
+- **Faculty Empowerment**: Equip educators with modern AI development tools
+- **Curriculum Enhancement**: Integrate AI-assisted coding in computer science courses  
+- **Practical Skills**: Hands-on experience with Amazon Q Developer CLI
+- **Industry Alignment**: Bridge academic learning with industry practices
+- **Future Readiness**: Prepare students for AI-augmented development careers
 
 ## 🚀 What is Amazon Q?
 Amazon Q is AWS's revolutionary AI-powered assistant that transforms how developers work:
