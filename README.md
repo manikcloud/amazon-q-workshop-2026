@@ -108,31 +108,6 @@ q --version
 q auth status
 ```
 
-### 3. Start Learning
-Follow the module-wise exercises in the `/modules` directory.
-
-## 📁 Repository Structure
-```
-amazon-q-workshop-2026/
-├── README.md                           # Workshop overview & main guide
-├── 📚 modules/                         # Workshop modules (Day-wise)
-│   ├── 📖 [module-01/](./modules/module-01/)  # Introduction & Amazon Q Overview
-│   ├── 📖 [module-02/](./modules/module-02/)  # Installation & Configuration
-│   ├── 📖 [module-03/](./modules/module-03/)  # Basic Code Generation
-│   ├── 📖 [module-04/](./modules/module-04/)  # AWS Service Integration
-│   ├── 📖 [module-05/](./modules/module-05/)  # Infrastructure as Code
-│   ├── 📖 [module-06/](./modules/module-06/)  # Security & Best Practices
-│   ├── 📖 [module-07/](./modules/module-07/)  # Real-World Projects
-│   ├── 📖 [module-08/](./modules/module-08/)  # Teaching Methodologies
-│   └── 📖 [module-09/](./modules/module-09/)  # Assessment & Future Roadmap
-├── 🛠️ [exercises/](./exercises/)              # Hands-on practice exercises
-├── 📚 [resources/](./resources/)              # Additional learning materials
-├── 📊 [slides/](./slides/)                    # Presentation materials
-├── 💻 [examples/](./examples/)                # Code examples & templates
-├── ✅ [solutions/](./solutions/)              # Exercise solutions
-└── 🎥 [videos/](./videos/)                    # Workshop recordings
-```
-
 ## 🎯 Hands-On Exercises
 
 **🛠️ [Complete Exercise Guide](./exercises/)**
@@ -175,33 +150,6 @@ amazon-q-workshop-2026/
 - **Current Role** at Amdocs
 - **Active Contributor** to cloud and AI communities
 
-## 🤝 Workshop Support
-
-### During the Workshop:
-- **Live Q&A Sessions** after each module
-- **Hands-on Assistance** during exercises
-- **Peer Learning** through group activities
-- **One-on-one Mentoring** for complex topics
-
-### Post-Workshop:
-- **Follow-up Resources** and materials
-- **Community Access** for continued learning
-- **Certification Guidance** for AWS credentials
-
-## 🎯 Expected Outcomes
-
-### For Faculty:
-- Enhanced teaching capabilities with AI tools
-- Modern curriculum development skills
-- Industry-relevant knowledge and practices
-- Networking with fellow educators
-
-### For Students (Future Impact):
-- Exposure to cutting-edge development tools
-- Improved coding efficiency and quality
-- Better preparation for industry roles
-- Enhanced problem-solving capabilities
-
 ## 📞 Contact & Support
 
 **Workshop Facilitator:** Varun Manik  
@@ -221,16 +169,6 @@ For technical issues or questions:
 2. **Create an issue** in this repository
 3. **Connect on LinkedIn** for professional networking
 4. **Join live Q&A** sessions during the workshop
-
----
-
-## 🏆 Workshop Completion
-
-Upon successful completion, participants will receive:
-- ✅ **Certificate of Completion**
-- ✅ **Workshop Materials** for future reference
-- ✅ **Access to Alumni Network**
-- ✅ **Continued Learning Resources**
 
 ---
 
