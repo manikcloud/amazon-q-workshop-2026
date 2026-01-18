@@ -1,57 +1,194 @@
-# Amazon Q Workshop 2026
+# Amazon Q Workshop 2026 - Faculty Development Program
 
-## Overview
-This repository contains materials and resources for the Amazon Q Workshop 2026, focusing on AI-powered development assistance and cloud automation.
+## 🎯 Workshop Overview
+Welcome to the **Amazon Q Workshop 2026** - a comprehensive Faculty Development Program designed to empower educators and developers with AI-powered development assistance and cloud automation capabilities.
 
-
-
+**Session Facilitator:** **Varun Manik**  
+*Cloud Solutions Architect & AI Development Expert*
 
 <img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
 
+## 📅 Workshop Schedule
+📋 **[Complete Daywise Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
 
-[Daywise Schedule of for FDP.pdf](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)
+## 🚀 What is Amazon Q?
+Amazon Q is AWS's revolutionary AI-powered assistant that transforms how developers work:
 
+### Core Capabilities:
+- **🤖 Intelligent Code Generation** - Write, debug, and optimize code with AI assistance
+- **☁️ AWS Service Integration** - Seamlessly work with 200+ AWS services
+- **🏗️ Infrastructure Automation** - Automate infrastructure tasks and deployments
+- **📚 Documentation & Explanations** - Generate comprehensive documentation automatically
+- **🔍 Code Analysis & Security** - Identify vulnerabilities and suggest improvements
 
-## What is Ama![Uploading Jan 2026 FDP Creative.png…]()
-zon Q?
-Amazon Q is an AI-powered assistant that helps developers:
-- Write, debug, and optimize code
-- Understand and work with AWS services
-- Automate infrastructure tasks
-- Generate documentation and explanations
+## 🎓 Learning Objectives
+By the end of this workshop, participants will be able to:
+- ✅ Leverage Amazon Q for accelerated development workflows
+- ✅ Integrate AI assistance into daily coding practices
+- ✅ Automate AWS infrastructure management with Q
+- ✅ Implement best practices for AI-assisted development
+- ✅ Train students using modern AI development tools
 
-## Workshop Contents
-- Hands-on exercises with Amazon Q CLI
-- AWS service integration examples
-- Best practices for AI-assisted development
-- Real-world use cases and scenarios
+## 📚 Workshop Modules
 
-## Prerequisites
-- AWS Account with appropriate permissions
-- Amazon Q CLI installed
-- Basic familiarity with AWS services
-- Development environment setup
+### **Day 1: Foundation & Setup**
+- **Module 1:** Introduction to Amazon Q & AI-Powered Development
+- **Module 2:** Installation, Configuration & Authentication
+- **Module 3:** Basic Code Generation and Assistance
 
-## Getting Started
-1. Clone this repository
-2. Install Amazon Q CLI
-3. Configure your AWS credentials
-4. Follow the workshop modules
+### **Day 2: Advanced Features**
+- **Module 4:** AWS Service Integration & Cloud Automation
+- **Module 5:** Infrastructure as Code with Amazon Q
+- **Module 6:** Security Best Practices & Code Analysis
 
-## Workshop Modules
-- Module 1: Introduction to Amazon Q
-- Module 2: Code Generation and Assistance
-- Module 3: AWS Service Integration
-- Module 4: Infrastructure as Code with Q
-- Module 5: Best Practices and Advanced Features
+### **Day 3: Practical Implementation**
+- **Module 7:** Real-World Project Development
+- **Module 8:** Teaching Methodologies with AI Tools
+- **Module 9:** Assessment & Future Roadmap
 
-## Resources
-- [Amazon Q Documentation](https://docs.aws.amazon.com/amazonq/)
-- [AWS CLI Documentation](https://docs.aws.amazon.com/cli/)
-- [Workshop Slides and Materials](./slides/)
+## 🛠️ Prerequisites
 
-## Support
-For questions and support during the workshop, please reach out to the workshop facilitators.
+### Technical Requirements:
+- **AWS Account** with appropriate permissions
+- **Amazon Q CLI** installed
+- **Basic familiarity** with AWS services
+- **Development environment** (VS Code recommended)
+- **Git** for version control
+
+### Knowledge Prerequisites:
+- Basic programming knowledge (Python/JavaScript preferred)
+- Understanding of cloud computing concepts
+- Familiarity with command-line interfaces
+
+## 🚀 Quick Start Guide
+
+### 1. Environment Setup
+```bash
+# Clone this repository
+git clone https://github.com/manikcloud/amazon-q-workshop-2026.git
+cd amazon-q-workshop-2026
+
+# Install Amazon Q CLI
+curl -sSL https://d2yblsmsllhwdu.cloudfront.net/q/install.sh | sh
+
+# Configure AWS credentials
+aws configure
+```
+
+### 2. Verify Installation
+```bash
+# Check Q CLI version
+q --version
+
+# Test authentication
+q auth status
+```
+
+### 3. Start Learning
+Follow the module-wise exercises in the `/modules` directory.
+
+## 📁 Repository Structure
+```
+amazon-q-workshop-2026/
+├── README.md                 # This file
+├── modules/                  # Workshop modules
+│   ├── module-01/           # Introduction & Setup
+│   ├── module-02/           # Basic Usage
+│   └── ...
+├── exercises/               # Hands-on exercises
+├── resources/              # Additional resources
+├── slides/                 # Presentation materials
+└── examples/               # Code examples
+```
+
+## 🎯 Hands-On Exercises
+
+### Exercise 1: Code Generation
+- Generate a REST API using Amazon Q
+- Implement error handling and validation
+- Add comprehensive documentation
+
+### Exercise 2: AWS Integration
+- Deploy infrastructure using Q-generated CloudFormation
+- Set up monitoring and logging
+- Implement security best practices
+
+### Exercise 3: Real-World Project
+- Build a complete web application
+- Integrate multiple AWS services
+- Implement CI/CD pipeline
+
+## 📖 Resources & References
+
+### Official Documentation:
+- 📘 [Amazon Q Developer Guide](https://docs.aws.amazon.com/amazonq/)
+- 📗 [AWS CLI Documentation](https://docs.aws.amazon.com/cli/)
+- 📙 [AWS Best Practices](https://aws.amazon.com/architecture/well-architected/)
+
+### Additional Learning:
+- 🎥 [Workshop Video Recordings](./videos/)
+- 📊 [Presentation Slides](./slides/)
+- 💻 [Code Examples](./examples/)
+- 📝 [Exercise Solutions](./solutions/)
+
+## 👨‍🏫 About the Facilitator
+
+**Varun Manik** is a seasoned Cloud Solutions Architect and AI Development Expert with extensive experience in:
+- AWS Cloud Architecture & Implementation
+- AI/ML Development and Integration
+- DevOps and Infrastructure Automation
+- Faculty Training and Development Programs
+
+## 🤝 Workshop Support
+
+### During the Workshop:
+- **Live Q&A Sessions** after each module
+- **Hands-on Assistance** during exercises
+- **Peer Learning** through group activities
+- **One-on-one Mentoring** for complex topics
+
+### Post-Workshop:
+- **Follow-up Resources** and materials
+- **Community Access** for continued learning
+- **Certification Guidance** for AWS credentials
+
+## 🎯 Expected Outcomes
+
+### For Faculty:
+- Enhanced teaching capabilities with AI tools
+- Modern curriculum development skills
+- Industry-relevant knowledge and practices
+- Networking with fellow educators
+
+### For Students (Future Impact):
+- Exposure to cutting-edge development tools
+- Improved coding efficiency and quality
+- Better preparation for industry roles
+- Enhanced problem-solving capabilities
+
+## 📞 Contact & Support
+
+**Workshop Facilitator:** Varun Manik  
+**Email:** [Contact through GitHub Issues]  
+**LinkedIn:** [Professional Network]  
+
+For technical issues or questions:
+1. Create an issue in this repository
+2. Join our workshop discussion forum
+3. Reach out during live sessions
 
 ---
-*Amazon Q Workshop 2026 - Empowering Developers with AI*
+
+## 🏆 Workshop Completion
+
+Upon successful completion, participants will receive:
+- ✅ **Certificate of Completion**
+- ✅ **Workshop Materials** for future reference
+- ✅ **Access to Alumni Network**
+- ✅ **Continued Learning Resources**
+
+---
+
+**🚀 Ready to transform your development workflow with AI? Let's get started!**
+
+*Amazon Q Workshop 2026 - Empowering Educators with AI-Powered Development*
