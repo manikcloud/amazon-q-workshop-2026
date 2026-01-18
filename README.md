@@ -1,7 +1,7 @@
 # Amazon Q Workshop 2026 - Faculty Development Program
 
 ## 🎯 Workshop Overview
-Welcome to the **Amazon Q Workshop 2026** - a comprehensive Faculty Development Program designed to empower educators and developers with AI-powered development assistance and cloud automation capabilities.
+Welcome to the **Amazon Q Workshop 2026** - a focused **2-hour Faculty Development Program** designed to introduce educators to AI-powered development assistance.
 
 **Session Facilitator:** **Varun Manik**  
 *AWS Ambassador | Cloud Solutions Architect & AI Development Expert | Organizer – AWS User Group Mississauga | X Manager Deloitte | DevOps | DevSecOps | AWS 8X | Cloud Trainer | AI Expert*
@@ -10,6 +10,14 @@ Welcome to the **Amazon Q Workshop 2026** - a comprehensive Faculty Development 
 
 ## 📅 Workshop Schedule
 📋 **[Complete Daywise Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
+
+| Session | Topic | Description |
+|---------|-------|-------------|
+| **[01 - Introduction](./01-introduction/)** | Amazon Q Overview | Understanding AI-powered development |
+| **[02 - Setup & Installation](./02-setup-installation/)** | Environment Setup | CLI Installation & Configuration |
+| **[03 - Hands-On Demo](./03-hands-on-demo/)** | Live Demonstration | Interactive coding with Amazon Q |
+| **[04 - Practical Exercise](./04-practical-exercise/)** | Individual Practice | Build your first Q-assisted project |
+| **[05 - Resources & Next Steps](./05-resources/)** | Wrap-up | Additional resources and learning paths |
 
 ## 🚀 What is Amazon Q?
 Amazon Q is AWS's revolutionary AI-powered assistant that transforms how developers work:
