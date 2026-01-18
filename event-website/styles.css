@@ -311,6 +311,10 @@ body {
     background: white;
 }
 
+.main-speaker {
+    margin-bottom: 3rem;
+}
+
 .speaker-card {
     display: grid;
     grid-template-columns: 300px 1fr;
@@ -320,6 +324,54 @@ body {
     padding: 3rem;
     border-radius: 20px;
     align-items: center;
+}
+
+.speakers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.speaker-mini-card {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.speaker-mini-card:hover {
+    transform: translateY(-5px);
+}
+
+.speaker-mini-card h4 {
+    color: #232F3E;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.speaker-mini-card p {
+    color: #666;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.institution-info {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 2rem 0;
+}
+
+.institution-info h4 {
+    color: #232F3E;
+    margin-bottom: 1rem;
+}
+
+.institution-info p {
+    color: #666;
+    margin: 0;
 }
 
 .speaker-image {
