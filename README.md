@@ -8,6 +8,11 @@ Welcome to the **Amazon Q Workshop 2026** - a focused **2-hour Faculty Developme
 
 <img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
 
+![WhatsApp Image 2026-01-18 at 12 31 48 PM (1)](https://github.com/user-attachments/assets/c27c1350-67da-449f-b5f0-56a7fb760835)
+
+
+![WhatsApp Image 2026-01-18 at 12 31 48 PM](https://github.com/user-attachments/assets/ac018a5b-f027-4249-9e9c-987d712395e5)
+
 ## 📅 Workshop Schedule
 📋 **[Complete Daywise Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
 
