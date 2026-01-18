@@ -23,6 +23,7 @@ A comprehensive event website for the Amazon Q Workshop 2026 Faculty Development
 - Key event details (date, institution, duration)
 - Call-to-action buttons
 - Floating animation card
+<img width="1228" height="920" alt="image" src="https://github.com/user-attachments/assets/49538028-0ea0-4017-b875-9a926417b9a2" />
 
 #### 2. **About Section**
 - Workshop overview and objectives
@@ -34,6 +35,7 @@ A comprehensive event website for the Amazon Q Workshop 2026 Faculty Development
 - AWS Ambassador credentials
 - Professional background
 - Social media links
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/e491584b-71d9-4903-b255-57025cf55265" />
 
 #### 4. **Schedule Section**
 - 5 interactive session cards
@@ -44,6 +46,7 @@ A comprehensive event website for the Amazon Q Workshop 2026 Faculty Development
 - Registration benefits
 - Complete registration form
 - Professional form styling
+<img width="1201" height="941" alt="image" src="https://github.com/user-attachments/assets/2db20fc4-bb8c-46ff-9f3c-e617b5e5cca7" />
 
 #### 6. **Footer**
 - Contact information
