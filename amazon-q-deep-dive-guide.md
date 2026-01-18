@@ -59,28 +59,28 @@ sequenceDiagram
 ### **Core Technologies:**
 
 #### **AI/ML Stack:**
-- **Foundation Models**: Amazon Titan, Claude (Anthropic)
-- **Model Training**: Custom AWS infrastructure
-- **Inference**: Amazon Bedrock runtime
-- **Context Processing**: Transformer-based architectures
+- **Foundation Models**: Amazon Titan and Claude (Anthropic) serve as the base large language models that understand and generate code. These models are pre-trained on massive datasets and fine-tuned for development tasks.
+- **Model Training**: Uses AWS's custom infrastructure with specialized hardware (GPUs/TPUs) to train and update AI models. The training pipeline continuously improves model performance based on user interactions.
+- **Inference**: Amazon Bedrock runtime handles real-time model execution, processing user requests and generating responses. It provides scalable, managed inference endpoints for consistent performance.
+- **Context Processing**: Transformer-based architectures analyze code context, project structure, and user intent. These neural networks understand relationships between code elements and maintain conversation context.
 
 #### **Infrastructure:**
-- **Compute**: AWS Graviton processors
-- **Storage**: Amazon S3 for model artifacts
-- **Networking**: AWS Global Infrastructure
-- **Caching**: ElastiCache for response optimization
+- **Compute**: AWS Graviton processors provide ARM-based, energy-efficient computing optimized for AI workloads. These custom chips deliver better price-performance for machine learning inference tasks.
+- **Storage**: Amazon S3 stores model artifacts, training data, and cached responses for quick retrieval. The distributed storage system ensures high availability and durability of AI models.
+- **Networking**: AWS Global Infrastructure provides low-latency access through edge locations worldwide. Content delivery networks ensure fast response times regardless of user location.
+- **Caching**: ElastiCache stores frequently requested responses and model outputs to reduce latency. In-memory caching significantly improves response times for common queries.
 
 #### **Security Layer:**
-- **Authentication**: AWS IAM and Builder ID
-- **Encryption**: TLS 1.3 in transit, AES-256 at rest
-- **Access Control**: Fine-grained permissions
-- **Audit**: CloudTrail integration
+- **Authentication**: AWS IAM and Builder ID provide secure user identity verification and access control. Multi-factor authentication and role-based permissions ensure only authorized users access the service.
+- **Encryption**: TLS 1.3 encrypts data in transit while AES-256 protects data at rest. End-to-end encryption ensures user code and conversations remain private and secure.
+- **Access Control**: Fine-grained permissions control what users can access and modify within their organizations. Policy-based security ensures users only see resources they're authorized to use.
+- **Audit**: CloudTrail integration logs all interactions for compliance and security monitoring. Comprehensive audit trails help organizations track usage and investigate security incidents.
 
 #### **API Gateway:**
-- **Load Balancing**: Application Load Balancer
-- **Rate Limiting**: API Gateway throttling
-- **Monitoring**: CloudWatch metrics
-- **Scaling**: Auto Scaling Groups
+- **Load Balancing**: Application Load Balancer distributes incoming requests across multiple backend instances. This ensures high availability and prevents any single server from becoming overwhelmed.
+- **Rate Limiting**: API Gateway throttling prevents abuse and ensures fair resource allocation among users. Configurable limits protect the service from excessive requests while maintaining quality of service.
+- **Monitoring**: CloudWatch metrics track performance, errors, and usage patterns in real-time. Detailed monitoring helps identify issues quickly and optimize system performance.
+- **Scaling**: Auto Scaling Groups automatically adjust capacity based on demand and traffic patterns. Dynamic scaling ensures consistent performance during peak usage while optimizing costs.
 
 ---
 
@@ -426,3 +426,22 @@ graph LR
 ---
 
 **This comprehensive guide covers the technical depth needed for your Amazon Q CLI session, from foundational concepts to advanced architecture details.**
+
+---
+
+## 📊 VISUAL DIAGRAMS EXPLANATION
+
+### **Architecture & Flow Diagrams:**
+**The High-Level Architecture diagram shows the core flow where user input goes through the Q CLI client, which gathers local context (files, git history) while sending requests to AWS backend AI models that generate responses back to the user. The Request Flow sequence diagram illustrates the step-by-step interaction: user inputs a command, CLI gathers context, sends structured request to AWS, AI models process it, and results return through the same path.**
+
+### **Multi-Tenant & Context Management:**
+**The Multi-Tenant Architecture diagram demonstrates how AWS isolates different organizations/users in separate tenant layers while sharing the underlying AI model layer (Bedrock, Titan, Claude) and infrastructure (EC2, S3, Lambda) for cost efficiency. The Context Window Management pie chart shows how Amazon Q allocates its 32K token limit: 1K for system prompts, 15K for user context (files, configs), 8K each for conversation history and current requests, with detailed breakdowns of what each component contains.**
+
+### **Processing & Security:**
+**The Code Understanding Pipeline flowchart shows the linear process of how Amazon Q analyzes code: input tokenization, AST parsing for structure, semantic analysis for meaning, intent recognition for user goals, and finally response generation. The Multi-Modal Processing diagram illustrates how Q handles different input types (text, file structures, metadata, context) through a central processing engine to produce various outputs (code, explanations, actions, suggestions).**
+
+### **Integration & Future Vision:**
+**The Security Architecture sequence diagram shows the encrypted TLS 1.3 communication flow between local CLI and AWS Gateway, with AI models processing requests ephemerally while local context never leaves the user's machine. The Integration Ecosystem diagram maps how Q CLI connects development tools (IDEs, terminals, CI/CD) with AWS services (Console, CloudShell, CDK) and supports multiple programming languages and infrastructure-as-code formats.**
+
+### **Roadmap & Evolution:**
+**The Future Roadmap timeline visualizes quarterly feature releases from 2026 Q1 (Multi-Agent Systems, Visual Code Generation) through Q4 (Database Integration, DevOps Automation), while the Technology Evolution diagram shows the progression from current capabilities through near-future enhancements to long-term advanced features like custom model training and full pipeline automation.**
