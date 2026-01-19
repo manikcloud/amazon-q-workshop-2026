@@ -47,3 +47,5 @@ We'll start with **Demo 1: Beautiful Website Development** and create a complete
 
 ---
 [← Previous: Setup](../02-setup-installation/README.md) | [Back to Main](../README.md) | [Next: Exercise →](../04-practical-exercise/README.md)
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)

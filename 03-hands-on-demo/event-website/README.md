@@ -143,3 +143,5 @@ A comprehensive event website for the Amazon Q Workshop 2026 Faculty Development
 **🎯 Perfect for promoting your Amazon Q Workshop 2026 Faculty Development Program!**
 
 *Professional event website showcasing all workshop details, speaker credentials, and registration information.*
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)

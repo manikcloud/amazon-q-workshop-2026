@@ -26,3 +26,5 @@
 
 ---
 [← Previous: Exercise](../04-practical-exercise/README.md) | [Back to Main](../README.md)
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)

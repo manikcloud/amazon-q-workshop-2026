@@ -102,3 +102,5 @@ Parentheses: (5 + 3) * 2 = 16
 
 ---
 **Generated for Amazon Q Workshop Demo - Lightweight & Beautiful Calculator**
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)

@@ -113,3 +113,5 @@ q chat
 
 ---
 [← Previous: Introduction](../01-introduction/README.md) | [Back to Main](../README.md) | [Next: Demo →](../03-hands-on-demo/README.md)
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)

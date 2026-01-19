@@ -183,3 +183,6 @@ For technical issues or questions:
 **🚀 Ready to transform your development workflow with AI? Let's get started!**
 
 *Amazon Q Workshop 2026 - Empowering Educators with AI-Powered Development*
+
+## 📚 Additional Resources
+For detailed Amazon Q setup and advanced configurations: [Amazon Q Setup Guide](https://github.com/manikcloud/amazon-q/tree/master)
