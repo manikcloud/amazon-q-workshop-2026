@@ -1,0 +1,105 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\title{Python Calculator Web Application}
+\author{Amazon Q Workshop 2026}
+\date{\today}
+
+\lstset{
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green},
+    stringstyle=\color{red},
+    frame=single,
+    breaklines=true
+}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This document describes the Python Calculator web application developed as part of the Amazon Q Workshop 2026 hands-on demonstration.
+
+\section{Project Overview}
+The calculator is a Flask-based web application that provides:
+\begin{itemize}
+    \item Basic arithmetic operations (addition, subtraction, multiplication, division)
+    \item Scientific functions (sin, cos, sqrt)
+    \item Error handling for invalid operations
+    \item Web-based user interface
+\end{itemize}
+
+\section{Technical Architecture}
+\subsection{Backend}
+\begin{itemize}
+    \item \textbf{Framework:} Flask (Python web framework)
+    \item \textbf{Language:} Python 3.x
+    \item \textbf{Template Engine:} Jinja2
+\end{itemize}
+
+\subsection{Frontend}
+\begin{itemize}
+    \item \textbf{HTML5} for structure
+    \item \textbf{CSS3} for styling
+    \item \textbf{JavaScript} for client-side interactions
+\end{itemize}
+
+\section{Mathematical Operations}
+The calculator supports the following operations:
+
+\subsection{Basic Operations}
+\begin{align}
+    \text{Addition: } & a + b \\
+    \text{Subtraction: } & a - b \\
+    \text{Multiplication: } & a \times b \\
+    \text{Division: } & \frac{a}{b}, \quad b \neq 0
+\end{align}
+
+\subsection{Scientific Functions}
+\begin{align}
+    \text{Sine: } & \sin(x) \\
+    \text{Cosine: } & \cos(x) \\
+    \text{Square Root: } & \sqrt{x}, \quad x \geq 0
+\end{align}
+
+\section{Implementation}
+\begin{lstlisting}[caption=Flask Application Structure]
+from flask import Flask, render_template, request, jsonify
+import math
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template('calculator.html')
+
+@app.route('/calculate', methods=['POST'])
+def calculate():
+    # Implementation details
+    pass
+\end{lstlisting}
+
+\section{Deployment}
+The application can be deployed using:
+\begin{itemize}
+    \item Local development server: \texttt{python app.py}
+    \item Docker container: \texttt{docker build -t calculator .}
+    \item Cloud platforms (AWS, Heroku, etc.)
+\end{itemize}
+
+\section{Testing}
+Access the application at: \url{http://localhost:5000}
+
+\section{Conclusion}
+This calculator demonstrates modern web development practices using Python Flask framework, providing both educational value and practical functionality.
+
+\end{document}
