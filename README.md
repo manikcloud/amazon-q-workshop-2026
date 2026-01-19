@@ -7,26 +7,27 @@ Welcome to the **Amazon Q Workshop 2026** - a focused **Faculty Development Prog
 *AWS Ambassador | Cloud Solutions Architect & AI Development Expert | Organizer – AWS User Group Mississauga | X Manager Deloitte | DevOps | DevSecOps | AWS 8X | Cloud Trainer | AI Expert*
 
 ### 🎨 Workshop Branding
-<img width="2560" height="2560" alt="Jan 2026 FDP Creative" src="https://github.com/user-attachments/assets/58f145f3-4cbd-4dfe-a60d-da89d79ea713" />
+<img width="600" height="400" alt="Jan 2026 FDP Creative" src="./images/jan-2026-fdp-creative.png" />
 
 ### 📋 Workshop Details & Schedule
-![Workshop Schedule & Details](https://github.com/user-attachments/assets/c27c1350-67da-449f-b5f0-56a7fb760835)
+<img width="500" height="300" alt="Workshop Schedule & Details" src="./images/workshop-schedule.png" />
 
 ### 🏛️ Institution & Program Information  
-![Institution Details](https://github.com/user-attachments/assets/ac018a5b-f027-4249-9e9c-987d712395e5)
+<img width="500" height="300" alt="Institution Details" src="./images/institution-details.png" />
 
 ## 📅 Workshop Program Structure
 📋 **[Complete Faculty Development Program Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
 
 ### 🎓 Session Breakdown
 
-| Session | Topic | Focus Area |
-|---------|-------|------------|
-| **[01 - Introduction](./01-introduction/)** | Amazon Q Overview | Understanding AI-powered development tools |
-| **[02 - Setup & Installation](./02-setup-installation/)** | Environment Configuration | CLI Installation & AWS Authentication |
-| **[03 - Hands-On Demo](./03-hands-on-demo/)** | Live Coding Session | Interactive development with Amazon Q |
-| **[04 - Practical Exercise](./04-practical-exercise/)** | Individual Practice | Build real-world projects with AI assistance |
-| **[05 - Resources & Next Steps](./05-resources/)** | Wrap-up & Resources | Continued learning and certification paths |
+| Session | Topic | Focus Area | Directory |
+|---------|-------|------------|-----------|
+| **[01 - Introduction](./01-introduction/)** | Amazon Q Overview | Understanding AI-powered development tools | `01-introduction/` |
+| **[02 - Setup & Installation](./02-setup-installation/)** | Environment Configuration | CLI Installation & AWS Authentication | `02-setup-installation/` |
+| **[03 - Hands-On Demo](./03-hands-on-demo/)** | Live Coding Session | Interactive development with Amazon Q | `03-hands-on-demo/` |
+| **[04 - Theory & Architecture](./04-theory/)** | Deep Dive Technical Guide | Backend technology and architecture | `04-theory/` |
+| **[05 - Practical Exercise](./05-practical-exercise/)** | Individual Practice | Build real-world projects with AI assistance | `05-practical-exercise/` |
+| **[06 - Resources & Next Steps](./06-resources/)** | Wrap-up & Resources | Continued learning and certification paths | `06-resources/` |
 
 ### 🎯 Program Objectives
 - **Faculty Empowerment**: Equip educators with modern AI development tools
@@ -92,6 +93,26 @@ q auth status
 ```
 
 ## 🎯 Hands-On Exercises
+
+### 📁 **Complete Workshop Structure:**
+```
+amazon-q-workshop-2026/
+├── 📚 01-introduction/              # Amazon Q Overview & Concepts
+├── ⚙️ 02-setup-installation/        # CLI Installation & Configuration  
+├── 💻 03-hands-on-demo/             # Live Coding & Interactive Sessions
+│   ├── event-website/              # SIRT University Event Website
+│   ├── python-calculator/          # Web-based Calculator App
+│   └── cs-department-website/      # Department Website Demo
+├── 📖 04-theory/                    # Deep Dive Technical Architecture
+│   └── amazon-q-deep-dive-guide.md # Comprehensive Technical Guide
+├── 🛠️ 05-practical-exercise/       # Individual Practice Projects
+│   └── student-database/           # Student Management System
+├── 📚 06-resources/                 # Additional Learning Materials
+└── 🖼️ images/                      # Workshop Images & Assets
+    ├── jan-2026-fdp-creative.png   # Event Branding
+    ├── workshop-schedule.png       # Schedule Details
+    └── institution-details.png     # SIRT Institution Info
+```
 
 **🛠️ [Complete Exercise Guide](./exercises/)**
 
