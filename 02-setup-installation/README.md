@@ -59,6 +59,40 @@ q login
 q chat
 ```
 
+## 🔧 AWS Builder ID Setup
+
+### Step 1: Create AWS Builder ID
+1. Visit: https://us-east-1.credentials.signin.aws/#/security
+2. Click "Create AWS Builder ID"
+3. Enter your email address
+4. Verify email and set password
+5. Complete profile setup
+
+### Step 2: Authentication Flow
+```bash
+# Start authentication
+q login
+
+# Follow the browser link that opens
+# Sign in with your AWS Builder ID
+# Grant permissions to Amazon Q CLI
+```
+
+### Step 3: Create Builder Directory Structure
+```bash
+# Create project workspace
+mkdir -p ~/builder-workspace
+cd ~/builder-workspace
+
+# Initialize project structure
+mkdir -p {src,docs,tests,config}
+echo "# Builder Workspace" > README.md
+
+# Set as default workspace
+export Q_WORKSPACE=~/builder-workspace
+echo 'export Q_WORKSPACE=~/builder-workspace' >> ~/.bashrc
+```
+
 ## 🛠️ Verification Commands
 ```bash
 # Check installation
@@ -66,6 +100,9 @@ q --version
 
 # Test authentication
 q login
+
+# Verify workspace
+echo $Q_WORKSPACE
 
 # Start interactive session
 q chat
