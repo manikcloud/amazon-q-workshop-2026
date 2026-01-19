@@ -68,6 +68,9 @@ q chat
 4. Verify email and set password
 5. Complete profile setup
 
+<img width="1865" height="695" alt="image" src="https://github.com/user-attachments/assets/cac10004-d031-4cd8-b469-bf4afaf6cb97" />
+
+
 ### Step 2: Authentication Flow
 ```bash
 # Start authentication
