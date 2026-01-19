@@ -11,13 +11,13 @@ Welcome to the **Amazon Q Workshop 2026** - a focused **Faculty Development Prog
 
 
 ### 🎨 Workshop Branding
-<img width="600" height="400" alt="Jan 2026 FDP Creative" src="./images/jan-2026-fdp-creative.png" />
+<img width="1000" height="500" alt="Jan 2026 FDP Creative" src="./images/jan-2026-fdp-creative.png" />
 
 ### 📋 Workshop Details & Schedule
-<img width="500" height="300" alt="Workshop Schedule & Details" src="./images/workshop-schedule.png" />
+<img width="1000" height="500" alt="Workshop Schedule & Details" src="./images/workshop-schedule.png" />
 
 ### 🏛️ Institution & Program Information  
-<img width="500" height="300" alt="Institution Details" src="./images/institution-details.png" />
+<img width="1000" height="500" alt="Institution Details" src="./images/institution-details.png" />
 
 ## 📅 Workshop Program Structure
 📋 **[Complete Faculty Development Program Schedule](https://github.com/user-attachments/files/24698014/Daywise.Schedule.of.for.FDP.pdf)**
